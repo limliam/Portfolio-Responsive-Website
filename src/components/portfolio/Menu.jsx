@@ -9,40 +9,44 @@ const Menu = [
   {
     id: 1,
     image: Work1,
-    title: "Project Management Illustration",
-    category: "Design",
+    title:
+      "Github. Portfolio website. Responsive Web UI / UX. The source code of this portfolio website.",
+    category: "Demo",
+    link: "https://github.com/limliam/Portfolio-Responsive-Website",
   },
   {
     id: 2,
     image: Work2,
-    title: "Guest App Walkthrough Screens",
-    category: "Art",
+    title:
+      "Northern Product Demo App (ASP.NET Core 6.0 Web App / Azure App Service)",
+    category: "Demo",
+    link: "https://northernproducts.azurewebsites.net/",
   },
   {
     id: 3,
     image: Work3,
-    title: "Delivery App Wireframe",
-    category: "Branding",
+    title: "React Demo App - CRUD Operation. Coming Soon.",
+    category: "Demo",
   },
   ,
   {
     id: 4,
     image: Work4,
-    title: "Onboarding Motivation",
+    title: "Project 4",
     category: "Design",
   },
   ,
   {
     id: 5,
     image: Work5,
-    title: "iMac Mockup Design",
+    title: "Project 5",
     category: "Creative",
   },
   ,
   {
     id: 6,
     image: Work6,
-    title: "Game Store App Concept",
+    title: "Project 6",
     category: "Art",
   },
 ];

@@ -34,18 +34,18 @@ const Blog = () => {
           <div className="blog_thumb">
             <span className="blog_category">Tutorial</span>
             <a
-              href="https://github.com/limliam/Portfolio-Responsive-Website"
+              href="https://reactjs.org/tutorial/tutorial.html"
               target="_blank"
             >
               <img src={Image2} alt="" className="blog_img" />
             </a>
           </div>
           <div className="blog_details">
-            <h3 className="blog_title">Github: Project Source Codes</h3>
+            <h3 className="blog_title">Tutorial: Intro to React</h3>
             <div className="blog_meta">
               <span>07 February, 2022</span>
               <span className="blog dot">.</span>
-              <span>Liam</span>
+              <span>React</span>
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@ const Blog = () => {
           <div className="blog_thumb">
             <span className="blog_category">Project</span>
             <a
-              href="https://northernproducts.azurewebsites.net/"
+              href="https://firebase.google.com/docs/firestore"
               target="_blank"
             >
               <img src={Image3} alt="" className="blog_img" />
@@ -62,13 +62,12 @@ const Blog = () => {
           </div>
           <div className="blog_details">
             <h3 className="blog_title">
-              Northern Product Demo App (ASP.NET Core 6.0 Web App / Azure App
-              Service)
+              Firebase Introduction - Cloud Firestore
             </h3>
             <div className="blog_meta">
               <span>02 February, 2022</span>
               <span className="blog dot">.</span>
-              <span>Liam</span>
+              <span>Firebase</span>
             </div>
           </div>
         </div>
