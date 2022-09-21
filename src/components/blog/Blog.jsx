@@ -33,7 +33,10 @@ const Blog = () => {
         <div className="blog_card">
           <div className="blog_thumb">
             <span className="blog_category">Tutorial</span>
-            <a href="https://github.com/limliam" target="_blank">
+            <a
+              href="https://github.com/limliam/Portfolio-Responsive-Website"
+              target="_blank"
+            >
               <img src={Image2} alt="" className="blog_img" />
             </a>
           </div>
